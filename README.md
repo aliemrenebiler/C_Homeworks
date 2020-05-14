@@ -1,2 +1,2 @@
-# hill-cipher
-Symmetric / Asymmetric Encryption and Hill Cipher Algorithm
+# school-projects
+The projects and homeworks I made when I was a Computer Engineering student at Yildiz Technical University.
