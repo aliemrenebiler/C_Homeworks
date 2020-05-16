@@ -1,2 +1,2 @@
 # school-projects
-The projects and homeworks I made when I was a Computer Engineering student at Yildiz Technical University.
+These are the school projects and homeworks.
